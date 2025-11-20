@@ -97,7 +97,11 @@ export default function BookingForm() {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:border-[#d4af37] focus:outline-none smooth-transition"
+<<<<<<< HEAD
                   placeholder="Your phone number"
+=======
+                  placeholder="+91 9876543210"
+>>>>>>> b51207694198b286112f9019a40691dce806d325
                 />
               </div>
 
@@ -161,7 +165,14 @@ export default function BookingForm() {
                   className="w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:border-[#d4af37] focus:outline-none smooth-transition"
                 >
                   <option value="Swift Car">Swift Car (5 Seater)</option>
+<<<<<<< HEAD
                   <option value="Tata Dost ">Tata Dost Cargo</option>
+=======
+                  <option value="Toyota Innova">Toyota Innova (7 Seater)</option>
+                  <option value="Tata AC Van">Tata AC Van (12 Seater)</option>
+                  <option value="Tata Dost Cargo">Tata Dost Cargo</option>
+                  <option value="Mahindra Marazzo">Mahindra Marazzo (8 Seater)</option>
+>>>>>>> b51207694198b286112f9019a40691dce806d325
                   <option value="Marcopolo Van">Marcopolo Van (17 Seater)</option>
                   <option value="Tata ACE">Tata ACE (Mini Truck)</option>
                   <option value="Tata Dost">Tata Dost (Cargo Van)</option>

@@ -1,10 +1,14 @@
 {
   "compilerOptions": {
+<<<<<<< HEAD
     "lib": [
       "dom",
       "dom.iterable",
       "esnext"
     ],
+=======
+    "lib": ["dom", "dom.iterable", "esnext"],
+>>>>>>> b51207694198b286112f9019a40691dce806d325
     "allowJs": true,
     "target": "ES6",
     "skipLibCheck": true,
@@ -15,7 +19,11 @@
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
+<<<<<<< HEAD
     "jsx": "react-jsx",
+=======
+    "jsx": "preserve",
+>>>>>>> b51207694198b286112f9019a40691dce806d325
     "incremental": true,
     "plugins": [
       {
@@ -23,6 +31,7 @@
       }
     ],
     "paths": {
+<<<<<<< HEAD
       "@/*": [
         "./*"
       ]
@@ -40,4 +49,11 @@
   "exclude": [
     "node_modules"
   ]
+=======
+      "@/*": ["./*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "exclude": ["node_modules"]
+>>>>>>> b51207694198b286112f9019a40691dce806d325
 }

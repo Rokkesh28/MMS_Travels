@@ -80,7 +80,13 @@ export default function Footer() {
             <p className="text-gray-400 text-sm">
               © 2025 MMS Travels & Transport. All rights reserved. | Owner: M. Parthiban
             </p>
+<<<<<<< HEAD
 
+=======
+            <p className="text-gray-400 text-sm">
+              Crafted for your comfort <span className="text-[#d4af37]">❤</span>
+            </p>
+>>>>>>> b51207694198b286112f9019a40691dce806d325
           </div>
         </div>
       </div>
