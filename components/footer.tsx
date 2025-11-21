@@ -78,10 +78,10 @@ export default function Footer() {
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-sm">
-              © 2025 MMS Travels & Transport. All rights reserved. | Owner: M. Parthiban
+              © 2025 MMS Travels & Transport. All rights reserved.
             </p>
             <p className="text-gray-400 text-sm">
-              Crafted for your comfort <span className="text-[#d4af37]">❤</span>
+              Developed by Rokkesh.Ramakrishnan <span className="text-[#d4af37]">❤</span>
             </p>
           </div>
         </div>
