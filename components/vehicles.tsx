@@ -10,11 +10,7 @@ const vehiclesData = [
     capacity: 17,
     type: "Passenger Van",
     description: "Premium AC coach for group travel with maximum comfort and spacious seating.",
-<<<<<<< HEAD
-    image: "/van1.png",
-=======
-    image: "/marcopolo-van-passengers.jpg",
->>>>>>> b51207694198b286112f9019a40691dce806d325
+    image: "/images/van1.png",
   },
   {
     id: 2,
@@ -22,11 +18,7 @@ const vehiclesData = [
     capacity: 5,
     type: "Sedan",
     description: "Perfect for small groups and short trips. Fuel-efficient and comfortable with air conditioning.",
-<<<<<<< HEAD
-    image: "/swift.png",
-=======
-    image: "/swift-car-sedan.jpg",
->>>>>>> b51207694198b286112f9019a40691dce806d325
+    image: "/images/swift.png",
   },
   {
     id: 3,
@@ -34,11 +26,7 @@ const vehiclesData = [
     capacity: "2+Load",
     type: "Mini Truck",
     description: "Ideal for cargo transport and goods delivery with reliable performance.",
-<<<<<<< HEAD
-    image: "/tata-ace.png",
-=======
-    image: "/tata-ace-truck.jpg",
->>>>>>> b51207694198b286112f9019a40691dce806d325
+    image: "/images/tata-ace.png",
   },
   {
     id: 4,
@@ -46,11 +34,7 @@ const vehiclesData = [
     capacity: "2+Load",
     type: "Cargo Van",
     description: "Heavy-duty cargo vehicle perfect for commercial shipments and goods transport.",
-<<<<<<< HEAD
-    image: "/dost.png",
-=======
-    image: "/tata-dost-cargo.jpg",
->>>>>>> b51207694198b286112f9019a40691dce806d325
+    image: "/images/dost.png",
   },
 ]
 
