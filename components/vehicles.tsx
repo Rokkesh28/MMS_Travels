@@ -9,7 +9,7 @@ const vehiclesData = [
     name: "Marcopolo Van",
     capacity: 17,
     type: "Passenger Van",
-    description: "Premium AC coach for group travel with maximum comfort and spacious seating.",
+    description: "Premium  coach for group travel with maximum comfort and spacious seating.",
     image: "/images/van1.png",
   },
   {
