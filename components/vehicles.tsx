@@ -16,7 +16,7 @@ const vehiclesData = [
     id: 2,
     name: "Swift Car",
     capacity: 5,
-    type: "Sedan",
+    type: "Car",
     description: "Perfect for small groups and short trips. Fuel-efficient and comfortable with air conditioning.",
     image: "/images/swift.png",
   },
@@ -30,7 +30,7 @@ const vehiclesData = [
   },
   {
     id: 4,
-    name: "Tata Dost",
+    name: "ASHOK LEYLAND Dost ",
     capacity: "2+Load",
     type: "Cargo Van",
     description: "Heavy-duty cargo vehicle perfect for commercial shipments and goods transport.",
