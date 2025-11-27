@@ -30,7 +30,7 @@ const vehiclesData = [
   },
   {
     id: 4,
-    name: "ASHOK LEYLAND Dost ",
+    name: "Ashok Leyland Dost ",
     capacity: "2+Load",
     type: "Cargo Van",
     description: "Heavy-duty cargo vehicle perfect for commercial shipments and goods transport.",
